@@ -1,0 +1,8 @@
+rb:
+  image: andrewkeig/rabbitmq-mqtt-enabled
+  volumes:
+    - /var/docker/rabbit:data
+  ports:
+    - "15672:15672"
+    - "5672:5672"
+    - "1883:1883"

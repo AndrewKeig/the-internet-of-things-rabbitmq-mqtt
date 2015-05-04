@@ -1,0 +1,11 @@
+{
+  "name": "the-internet-of-things-rabbitmq-mqtt",
+  "version": "1.0.0",
+  "description": "The Internet of things, with RabbitMQ, Node.js, MQTT and AMQP",
+  "author": "Andrew Keig",
+  "license": "MIT",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "mqtt": "^1.1.3"
+  }
+}
