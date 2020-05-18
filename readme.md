@@ -2,5 +2,5 @@
 
 This repo contains the sourc for the following posts.
 
-- [The Internet of things, Dockerising RabbitMQ and MQTT](http://blog.airasoul.io/dockerising-rabbitmq-and-mqtt/)
-- [The Internet of things, with RabbitMQ, Node.js, MQTT and AMQP](http://blog.airasoul.io/the-internet-of-things-with-rabbitmq-node-js-mqtt-and-amqp/)
+- [The Internet of things, Dockerising RabbitMQ and MQTT](https://airasoul.com/the-internet-of-things-dockerising-rabbitmq-and-mqtt/index.html)
+- [The Internet of things, with RabbitMQ, Node.js, MQTT and AMQP](https://airasoul.com/the-internet-of-things-with-rabbitmq-nodejs-mqtt-and-amqp/index.html)
